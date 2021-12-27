@@ -8,8 +8,8 @@ function MiniProfile() {
             />
 
             <div className="flex-1 mx-4">
-                <h2 className="font-bold">jaideep</h2>
-                <h3 className="text-sm text-gray-400">Babe loves uuuu</h3>
+                <h2 className="font-bold">Ruchi Pakhle</h2>
+                <h3 className="text-sm text-gray-400">Excited to work at Spenny!</h3>
             </div>
             <button className="text-blue-400 text-sm font-semibold">Sign Out</button>
         </div>
