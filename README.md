@@ -17,3 +17,8 @@ Create a social media platform similar to Instagram.
 https://csb-xie9h-lezrysz5z-ruchip16.vercel.app/
 
 ### Note: Code is pushed in the master branch by default
+
+<p align="center">
+Built with ❤️ by <a href="https://github.com/Ruchip16" target="blank">Ruchi</a>
+
+
