@@ -1,4 +1,3 @@
-# Spenny.Assignment
 
 ## Problem Statement ⚛️ 
 
